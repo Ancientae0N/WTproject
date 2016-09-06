@@ -1,0 +1,26 @@
+textarea {
+	width: 200%
+	height: 00px;
+	padding: 12px 20px;
+	box-sizing: border box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	background-color: #f8f8f8;
+	resize: none;
+}
+
+#container{
+	
+	padding: 70px 70px 70px 70px;
+}
+.bord{
+	border: 3px solid black;
+}
+#any{
+	float:right;
+	width: 70%;
+	height: 100 px;
+	margin-top: 18px;
+
+	
+}
