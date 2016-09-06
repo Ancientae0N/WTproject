@@ -1,7 +1,7 @@
 #head{
 	background-color: black;
 	color: white;
-	opacity: 0.6;
+	
 	margin-top:10px;
 	
 }
@@ -11,17 +11,24 @@ body{
 }
 #topright{
 	float:right;
+	width: 224px;
+	height: 98px;
+	border: 1px solid black;
+	background-color : black;
+	opacity: 0.6;
+	
 }
 
 	
-#right{
-	width: 200px;
+#topcenter{
+	width: 225px;
     height:600px;
     border: 1px solid black;
     box-sizing: border-box;
     background-color : black;
     float:right;
-    opacity: 0.6;
+    padding: 10px;
+    opacity: 1.0;
 }
 #topleft{
 	width: 200px;
@@ -30,6 +37,7 @@ body{
     box-sizing: border-box;
     background-color : black;
     opacity: 0.6;
+    padding: 10px;
 }
 #footer{
     margin-top: 20px;
@@ -42,6 +50,19 @@ body{
     opacity: 0.6;
     background-color : black;
 }
+div#topleft a {
+	color: white;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+div#footer a {
+	color: white;
+}
+
 
 
 
